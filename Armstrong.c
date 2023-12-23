@@ -16,9 +16,6 @@ int main()
     {
         printf("It is not a Armstrong Number.");
     }
-    
-
-    
 }
 int order(int a)
 {
